@@ -358,8 +358,6 @@ let tek = `✧────···[ Dashboard ]···────✧
 │${emot} *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
-│
-│ ▸ *Sumber :* YouTube WH-MODS-DEV
 │ ▸ *ᴀᴜᴛʜᴏʀ :* ${nameown}
 ┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
 ✧
